@@ -101,6 +101,20 @@
                   </a>
               </span>
               {% endif %}
+
+                <!-- OpenReview Link. -->
+                {% if page.openreview %}
+                <span class="link-block">
+                <a href="{{ page.openreview }}"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>OpenReview</span>
+                  </a>
+                </span>
+                {% endif %}
+
               <!-- Dataset Link. -->
               {% if page.data %}
               <span class="link-block">

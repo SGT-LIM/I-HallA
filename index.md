@@ -16,7 +16,7 @@ affiliations:
     <span class="author-block">Graduate School of Artificial Intelligence, KAIST, Republic of Korea <br><b>AAAI 2025</b></span>
     <span class="eql-cntrb"><small><br><sup>*</sup>Indicates Equal Contribution</small></span>
           
-paper: hthttps://arxiv.org/abs/2409.12784
+paper: https://arxiv.org/abs/2409.12784
 # video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/SGT-LIM/I-HallA-v1.0
 openreview: https://openreview.net/forum?id=RPsdiVnG9C

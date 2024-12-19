@@ -67,10 +67,14 @@ This paper introduces a new method for evaluating image hallucination in TTI mod
 
 ## Citation
 ```
-@article{youngsun2024aaai,
-  Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering,
-  author={Lim, Youngsun and Hojun, Choi and Hyunjung Shim},
-  journal={AAAI},
-  year={2025}
+```bibtex
+@article{ihalla,
+  author       = {Youngsun Lim and
+                  Hojun Choi and
+                  Hyunjung Shim},
+  title        = {Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering},
+  journal      = {CoRR},
+  year         = {2024},
 }
+```
 ```

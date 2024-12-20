@@ -18,7 +18,7 @@ affiliations:
           
 paper: https://arxiv.org/abs/2409.12784
 # video: https://www.youtube.com/results?search_query=turing+machine
-code: https://github.com/SGT-LIM/I-HallA-v1.0
+code: https://github.com/kaist-cvml/I-HallA-v1.0
 ---
 
 ![Overview](/static/image/teaser.png)

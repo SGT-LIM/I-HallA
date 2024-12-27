@@ -49,14 +49,13 @@ The I-HallA v1.0 dataset includes prompts extracted from five science and histor
 ### Benchmark Structure
 - Prompt & Image Collection: Textbook captions and figures serve as sources for factual prompts and images.
 - Enhancement Using GPT-4o: GPT-4o adds reasoning to the prompt-image pairs to validate factuality.
-QA Set Generation: Multiple-choice QA sets are formed to assess image hallucinations, reviewed and refined by human annotators.
+- QA Set Generation: Multiple-choice QA sets are formed to assess image hallucinations, reviewed and refined by human annotators.
 
 ## Results
 ![Experimental Result](/static/image/exp.png)
 
 ![Human Evaluation](/static/image/human_eval.png)
-*Figure 4: AHuman Evaluation.*
-I-HallA was applied to five models: DALL-E 3, Stable Diffusion v1.4, v1.5, v2.0, and SD XL-base. DALL-E 3 demonstrated the lowest hallucination rates, while all models exhibited issues with factual consistency. I-HallA scores highly correlated with human assessments, confirming the metric’s reliability.
+I-HallA was applied to five models: DALL-E 3, Stable Diffusion v1.4, v1.5, v2.0, and SD XL-base. DALL-E 3 demonstrated the lowest hallucination rates, while all models exhibited issues with factual consistency. I-HallA scores correlate highly with human assessments, confirming the metric's reliability.
 
 
 ## Conclusion

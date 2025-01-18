@@ -13,7 +13,7 @@ authors:
         <a href='https://sites.google.com/view/cvml-kaist/home'>Hyunjung Shim</a>
     </span>
 affiliations:
-    <span class="author-block">Graduate School of Artificial Intelligence, KAIST, Republic of Korea <br><b>AAAI 2025</b></span>
+    <span class="author-block">Graduate School of Artificial Intelligence, KAIST, Republic of Korea <br><b>AAAI 2025, Oral presentation</b></span>
     <span class="eql-cntrb"><small><br><sup>*</sup>Indicates Equal Contribution</small></span>
           
 paper: https://arxiv.org/abs/2409.12784
